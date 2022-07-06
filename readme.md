@@ -11,7 +11,13 @@ ___
 
 ## Recursão:
 
-    Funciona de forma semelhante a um laço de repetição, porém a recursão tem um custo computacional mais elevado, ou seja, utiliza mais processamento e gasta mais tempo para ser executado, que um laço while (iteração ou laço de repetição), isso ocorre devido a necessidade de a função manter seu estado anterior para poder continuar de onde parou quando chamou novamente a função.
+    Funciona de forma semelhante a um laço de repetição, porém a recursão tem um 
+    custo computacional mais elevado, ou seja, utiliza mais processamento e 
+    gasta mais tempo para ser executado, que um laço while (iteração ou laço de
+    repetição), isso ocorre devido a necessidade de a função manter seu estado
+    anterior para poder continuar de onde parou quando chamou novamente a 
+    função.
+
 
 ##  Código em:
 
