@@ -30,5 +30,5 @@ def funcaoRecursiva(ponto_atual,N,i):
     funcaoRecursiva(ponto_atual,N,i) 
   
   return "fim"
-
+x=0
 funcaoRecursiva(ponto_atual,numero_recursao,x)
